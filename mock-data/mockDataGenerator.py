@@ -29,6 +29,6 @@ def generateprenatalata(record):
 
 if __name__ == '__main__':
     #the amount of records going to be generated
-    records = 50
+    records = 5000
     generateprenatalata( records )
     print( "CSV generated" )
